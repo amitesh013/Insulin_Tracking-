@@ -76,8 +76,3 @@ The project utilizes **XGBoost Regression Models** to:
 * Support better diabetes monitoring through AI
 
 
-## 👨‍💻 Author
-
-**Amitesh Ram M S**
-B.Tech Computer Science and Data Science
-VIT Chennai
